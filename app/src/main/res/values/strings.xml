@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Macro App</string>
+    <string name="accessibility_service_description">Turn on service to perfrom the action</string>
+    <string name="accessibility_service_label">Macro</string>
+</resources>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="DesignSurface">
+    <option name="filePathToZoomLevelMap">
+      <map>
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/MacroApp/app/src/main/res/drawable/bg_with_radius.xml" value="0.1115" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/MacroApp/app/src/main/res/drawable/dialog_setting.xml" value="0.1225" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/MacroApp/app/src/main/res/layout/activity_list_of_macro.xml" value="0.3375" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/MacroApp/app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/MacroApp/app/src/main/res/layout/dialog_for_showing_clicked_macro.xml" value="0.3375" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/MacroApp/app/src/main/res/layout/dialog_setting_for_taking_input.xml" value="0.2" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/MacroApp/app/src/main/res/layout/dialog_to_save_action.xml" value="0.22447916666666667" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/MacroApp/app/src/main/res/layout/pop_up_last_action.xml" value="0.22" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/MacroApp/app/src/main/res/layout/popup_window.xml" value="0.22" />
+        <entry key="..\:/Users/Sakib Ahmed/Desktop/MacroApp/app/src/main/res/layout/take_word_to_search_and_keyword.xml" value="0.25" />
+      </map>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" languageLevel="JDK_11" default="true" project-jdk-name="Android Studio default JDK" project-jdk-type="JavaSDK">
+    <output url="file://$PROJECT_DIR$/build/classes" />
+  </component>
+  <component name="ProjectType">
+    <option name="id" value="Android" />
+  </component>
+</project>
